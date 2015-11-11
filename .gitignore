@@ -1,0 +1,5 @@
+/.idea
+/yose-ruby.iml
+/.bundle
+/vendor/bundle
+/coverage
